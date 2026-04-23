@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hey, soy Manuel Espinosa
 
-<!--
-**maanu18/maanu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación enfocado en Desarrollo de Aplicaciones Multiplataforma
+🚀 Actualmente trabajando en proyectos web y mejorando mis habilidades en programación
+🌱 Aprendiendo: JavaScript, desarrollo web y lógica de programación
 
-Here are some ideas to get you started:
+🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Sistemas Microinformáticos y Redes y DAM, con interés en el desarrollo de aplicaciones y videojuegos.
+Me gusta aprender creando proyectos prácticos y mejorar constantemente mi código.
+
+🛠️ Tecnologías
+💻 HTML, CSS
+⚙️ JavaScript (en progreso)
+🧰 Git & GitHub
+🚀 Proyectos destacados
+🎮 Xmanu-Juegos
+
+Proyecto de página web de minijuegos con modo multijugador y vs máquina.
+👉 https://github.com/maanu18/Xmanu-Juegos
+
+🛠️ JLmantenimiento
+
+Web enfocada a servicios de mantenimiento.
+👉 https://github.com/maanu18/JLmantenimiento
+
+🏎️ PistonesXRacing
+
+Proyecto web relacionado con el mundo del motor.
+👉 https://github.com/maanu18/PistonesXRacing
