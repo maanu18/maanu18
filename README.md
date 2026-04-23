@@ -1,31 +1,50 @@
-# 👋 Hey, soy Manuel Espinosa
+# 👋 Hola, soy Manuel Espinosa
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+formación;DAM+Student;Apasionado+por+la+tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+formación;Estudiante+de+DAM;Apasionado+por+la+tecnología" />
+</p>
+
+<p align="center">
+  💻 Desarrollo de aplicaciones web y multiplataforma  
+  🎓 Estudiante de DAM + Técnico en SMR  
+  🚀 Construyendo proyectos reales
 </p>
 
 ---
 
-## 💻 Sobre mí
+## 🧠 Sobre mí
 
-💻 Desarrollador en formación enfocado en **Desarrollo de Aplicaciones Multiplataforma**
-🚀 Actualmente trabajando en proyectos web
-🌱 Aprendiendo: JavaScript, buenas prácticas y desarrollo moderno
+Soy desarrollador en formación con interés en el desarrollo de aplicaciones y videojuegos.
+Me gusta aprender construyendo proyectos prácticos que me permitan mejorar cada día.
 
-Actualmente soy estudiante de **DAM** y técnico en **Sistemas Microinformáticos y Redes**.
-Me interesa el desarrollo de aplicaciones y videojuegos, y aprender construyendo proyectos reales.
+Actualmente estoy centrado en mejorar mis habilidades en desarrollo web y programación.
 
 ---
 
 ## 🛠️ Tecnologías
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,kotlin,mysql,git,linux" />
-</p>
+### 💻 Desarrollo Web
+
+* HTML, CSS, JavaScript
+
+### ⚙️ Backend & Programación
+
+* Java
+* Python (básico)
+* Kotlin (básico)
+
+### 🗄️ Bases de datos
+
+* MySQL
+
+### 🧰 Herramientas
+
+* Git & GitHub
+* Linux (básico)
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyectos destacados
 
 ### 🎮 Xmanu-Juegos
 
@@ -53,12 +72,17 @@ Web sobre el mundo del motor
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanu18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maanu18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maanu18&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Objetivo
 
-Seguir creciendo como desarrollador y trabajar en proyectos reales que aporten valor.
+Seguir creciendo como desarrollador, mejorar mis habilidades y trabajar en proyectos reales que aporten valor.
+
+---
+
+## ⚡ Frase
+
+> "La mejor forma de aprender a programar es programando."
