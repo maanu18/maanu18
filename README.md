@@ -69,11 +69,30 @@ Web sobre el mundo del motor
 
 ---
 
-## 📊 Estadísticas
+## 🚀 Actualmente
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanu18&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+* 🔧 Desarrollando proyectos web y mejorando mis aplicaciones actuales
+* 🌱 Aprendiendo JavaScript y buenas prácticas de desarrollo
+* ⚙️ Trabajando con Java y bases de datos en MySQL
+* 🧠 Mejorando lógica de programación y estructura de código
+
+---
+
+## 💻 Enfoque técnico
+
+* Desarrollo de aplicaciones web
+* Programación orientada a objetos (Java)
+* Gestión de bases de datos
+* Control de versiones con Git
+
+---
+
+## 📌 Próximos objetivos
+
+* Crear proyectos más completos y profesionales
+* Mejorar diseño y experiencia de usuario
+* Aprender frameworks modernos
+* Participar en proyectos reales
 
 ---
 
@@ -83,6 +102,12 @@ Seguir creciendo como desarrollador, mejorar mis habilidades y trabajar en proye
 
 ---
 
-## ⚡ Frase
+## 🤝 ¿Conectamos?
 
-> "La mejor forma de aprender a programar es programando."
+📧 Email: [manuelespinosa1812@gmail.com](mailto:manuelespinosa1812@gmail.com)
+
+💬 Siempre abierto a colaborar en proyectos o nuevas oportunidades.
+
+---
+
+⭐ Gracias por visitar mi perfil.
